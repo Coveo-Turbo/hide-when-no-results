@@ -2,6 +2,8 @@
 
 Disclaimer: This component was built by the community at large and is not an official Coveo JSUI Component. Use this component at your own risk.
 
+The HideWhenNoResults component targets a DOM element based on the `sectionToHideQuerySelector` parameter. Using a regular query selector like ".my-class-name" or "#my-id" will hide that specific element when the query returns 0 results.
+
 ## Getting Started
 
 1. Install the component into your project.
